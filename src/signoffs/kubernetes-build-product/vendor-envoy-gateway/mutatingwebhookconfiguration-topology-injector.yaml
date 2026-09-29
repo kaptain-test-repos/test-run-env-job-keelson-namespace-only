@@ -1,0 +1,4 @@
+sourcePath: kubernetes-build-product/vendor-envoy-gateway/mutatingwebhookconfiguration-topology-injector.yaml
+checksum: sha256:7a2b44ff101ca11b0f38da3735c2399792fe257b0705be05c2e593fa9799558c
+reviewer: "Fred Cooke"
+signoffTimestamp: 2026-09-29T08:05:29Z

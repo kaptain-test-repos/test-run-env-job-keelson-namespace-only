@@ -1,0 +1,4 @@
+sourcePath: kubernetes-build-product/vendor-envoy-gateway/role-infra-manager.yaml
+checksum: sha256:aff252cb9c34dfd29e00388365a4160c34a4e7633c750b9f176a36d49a289e67
+reviewer: "Fred Cooke"
+signoffTimestamp: 2026-09-29T08:05:29Z
