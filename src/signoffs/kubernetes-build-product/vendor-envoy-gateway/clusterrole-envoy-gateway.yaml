@@ -1,0 +1,4 @@
+sourcePath: kubernetes-build-product/vendor-envoy-gateway/clusterrole-envoy-gateway.yaml
+checksum: sha256:b86101f7fad1c6b7d45933e2218a3fd8f4b34d638028962e339c74026f4efa64
+reviewer: "Fred Cooke"
+signoffTimestamp: 2026-09-29T08:05:29Z

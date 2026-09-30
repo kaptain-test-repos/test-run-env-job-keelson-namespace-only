@@ -1,0 +1,4 @@
+sourcePath: kubernetes-build-product/vendor-envoy-gateway/rolebinding-infra-manager.yaml
+checksum: sha256:3d5936e3870681d202f1a43593428e717361478d9a2f645838b59812b7a01700
+reviewer: "Fred Cooke"
+signoffTimestamp: 2026-09-29T08:05:29Z

@@ -1,0 +1,4 @@
+sourcePath: kubernetes-build-product/vendor-envoy-gateway/clusterrolebinding-certgen.yaml
+checksum: sha256:24f68ab1d9849fbeabbee528328b7bc199970e55ec4655a22e39d4ab5e42448e
+reviewer: "Fred Cooke"
+signoffTimestamp: 2026-09-29T08:05:29Z

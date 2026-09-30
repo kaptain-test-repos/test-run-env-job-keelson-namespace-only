@@ -1,0 +1,4 @@
+sourcePath: kubernetes-build-product/vendor-envoy-gateway/rolebinding-leader-election.yaml
+checksum: sha256:e9ba996ce2248822268d3ce0ee97c8956178025258518a5a0bbf71b28b65a352
+reviewer: "Fred Cooke"
+signoffTimestamp: 2026-09-29T08:05:29Z
