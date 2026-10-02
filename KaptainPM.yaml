@@ -1,4 +1,4 @@
-apiVersion: kaptain.org/1.2
+apiVersion: kaptain.org/1.37
 kind: kubernetes-run-environment
 spec:
   global:
@@ -22,11 +22,6 @@ spec:
       generateIdealEnvironmentDeployManifests: true
       checksumSecretsTiming: build
       failOnUnreferencedConfigOrSecrets: true
-      environmentDeployBaseImage:
-        registry: ghcr.io
-        namespace: kube-kaptain
-        family: trixie-slim
-        version: 1.0.13.1.34.1
       # The only repo with cleanup enforcement ON: the others stay dryrun.
       # Coverage: the sparse end of the surface - policy only, with both
       # additionalResources and accumulatingResources omitted entirely, so
